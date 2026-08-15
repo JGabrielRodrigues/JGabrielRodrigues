@@ -1,57 +1,88 @@
-<h1 align="center">Olá, eu sou o José Gabriel 👋</h1>
+<div align="center">
 
-<h3 align="center">Desenvolvedor Web Full Stack | Java & Python</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=José%20Gabriel%20Santana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20Back-end&descAlignY=55&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jgabriel-rodrigues/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://portfolio-jg-jet.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/jgabriel-rodrigues/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://portfolio-jg-jet.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"/>
+</a>
 
----
+<br/>
 
-### 🚀 Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Back-end+Developer+%F0%9F%9A%80;Java+%7C+Python;Sempre+aprendendo+algo+novo!" alt="Typing SVG"/>
 
-Sou desenvolvedor Web Full Stack, apaixonado por transformar ideias em soluções digitais funcionais e bem escritas. Trabalho principalmente com **Java** e **Python**, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+</div>
 
-- 🔭 Atualmente construindo projetos com Java e Python
-- 🌱 Sempre aprendendo algo novo sobre desenvolvimento web
+<br/>
+
+## 🚀 Sobre mim
+
+Sou desenvolvedor **Back-end**, apaixonado por transformar ideias em soluções digitais robustas e bem escritas. Trabalho principalmente com **Java** e **Python**, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+
+```java
+public class JoseGabriel {
+    private String cargo = "Desenvolvedor Back-end";
+    private String[] stack = {"Java", "Python"};
+    private boolean sempreAprendendo = true;
+
+    public static void main(String[] args) {
+        System.out.println("Bem-vindo ao meu perfil! 👋");
+    }
+}
+```
+
+- 🔭 Atualmente construindo projetos com **Java** e **Python**
+- 🌱 Sempre aprendendo algo novo sobre desenvolvimento back-end
 - 💬 Me chama pra falar sobre programação, projetos ou oportunidades
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jgabriel-rodrigues/) · [Portfólio](https://portfolio-jg-jet.vercel.app/)
 
----
+<br/>
 
-### 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias e ferramentas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,mysql,postgres,docker&theme=dark" alt="Tecnologias"/>
+</div>
 
----
+<br/>
 
-### 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JGabrielRodrigues&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielRodrigues&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JGabrielRodrigues&theme=tokyonight&hide_border=true" alt="Streak de commits"/>
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JGabrielRodrigues&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabrielRodrigues&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JGabrielRodrigues&label=Visualizações%20do%20perfil&color=blueviolet&style=flat" alt="Visualizações do perfil"/>
-</p>
+<br/>
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JGabrielRodrigues&theme=tokyonight&hide_border=true" alt="Streak de commits"/>
 
-<p align="center"><i>Obrigado pela visita! ⭐ Sinta-se à vontade para explorar meus repositórios.</i></p>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JGabrielRodrigues&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🏆 Troféus
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JGabrielRodrigues&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus do GitHub"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=JGabrielRodrigues&label=Visualizações%20do%20perfil&color=0077B5&style=for-the-badge" alt="Visualizações do perfil"/>
+
+<br/><br/>
+
+<i>Obrigado pela visita! ⭐ Sinta-se à vontade para explorar meus repositórios.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=100&section=footer" width="100%"/>
+
+</div>
