@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02550,100:00C6FF&height=200&section=header&text=José%20Gabriel%20Santana&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Web%20Back-end&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:028900,100:00C6FF&height=200&section=header&text=José%20Gabriel%20Santana&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Web%20Back-end&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://www.linkedin.com/in/jgabriel-rodrigues/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
