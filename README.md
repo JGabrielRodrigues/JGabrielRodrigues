@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **Back-end**, apaixonado por transformar ideias em soluções digitais robustas e bem escritas. Trabalho principalmente com **Java** e **Python**, sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+Sou desenvolvedor **Back-end**, apaixonado por transformar ideias em soluções digitais robustas e bem escritas.sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 ```java
 public class JoseGabriel {
@@ -67,7 +67,7 @@ public class JoseGabriel {
 
 <br/>
 
-## 🏆 Troféus
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=JGabrielRodrigues&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus do GitHub"/>
