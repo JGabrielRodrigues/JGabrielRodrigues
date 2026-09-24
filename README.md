@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **Back-end**, apaixonado por transformar ideias em soluções.sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+Sou desenvolvedor **Back-end**, apaixonado por transformar ideias em soluções. sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 ```java
 public class JoseGabriel {
