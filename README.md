@@ -48,11 +48,6 @@ public class JoseGabriel {
 
 <br/>
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JGabrielRodrigues&theme=tokyonight&no-frame=true&row=1&column=6" alt="Troféus do GitHub"/>
-</div>
-
 <br/>
 
 <div align="center">
