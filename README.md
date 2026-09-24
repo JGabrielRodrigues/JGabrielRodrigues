@@ -19,7 +19,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **Back-end**, apaixonado por transformar ideias em soluções digitais robustas e bem escritas.sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
+Sou desenvolvedor **Back-end**, apaixonado por transformar ideias em soluções.sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento.
 
 ```java
 public class JoseGabriel {
@@ -34,7 +34,7 @@ public class JoseGabriel {
 ```
 
 - 🔭 Atualmente construindo projetos com **Java** e **Python**
-- 🌱 Sempre aprendendo algo novo sobre desenvolvimento back-end
+- 🌱 Sempre aprendendo algo novo sobre **tecnologia**
 - 💬 Me chama pra falar sobre programação, projetos ou oportunidades
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jgabriel-rodrigues/) · [Portfólio](https://portfolio-jg-jet.vercel.app/)
 
